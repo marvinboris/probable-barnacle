@@ -1,0 +1,32 @@
+[
+    {
+        "NumFilm": "6",
+        "Titre": "The Shining",
+        "Realisateur": "L'autre",
+        "Categorie": "Horreur",
+        "Duree": "90",
+        "Prix": "5.99",
+        "CheminPochette": "src/images/pochettes/Shining.jpg",
+        "UrlPreview": "https://www.youtube.com/embed/5Cb3ik6zP2I"
+    },
+    {
+        "NumFilm": "7",
+        "Titre": "Titanic",
+        "Realisateur": "Camron",
+        "Categorie": "Drame",
+        "Duree": "90",
+        "Prix": "5.99",
+        "CheminPochette": "src/images/pochettes/titanic.jpg",
+        "UrlPreview": "https://www.youtube.com/embed/2e-eXJ6HgkQ"
+    },
+    {
+        "NumFilm": "8",
+        "Titre": "Transformer",
+        "Realisateur": "Michael Bay",
+        "Categorie": "Action",
+        "Duree": "90",
+        "Prix": "5.99",
+        "CheminPochette": "src/images/pochettes/Transformer.jpg",
+        "UrlPreview": "https://www.youtube.com/embed/CbX_SIz_9fk"
+    }
+]
